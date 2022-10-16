@@ -1,0 +1,66 @@
+.Carousel {
+    width: 1585px;
+    height: 720px;
+    margin-left: 40px;
+    margin-bottom: 105px;
+    overflow: hidden;
+}
+
+.left_right_text {
+    display: flex;
+}
+
+.left_right {
+    display: flex;
+}
+
+.Left_Corousel_btn,
+.Right_Corousel_btn {
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    border: none;
+    margin-top: 20px;
+    border: 1px solid rgb(234, 234, 234);
+    background-color: #fff;
+}
+
+.Right_Corousel_btn {
+    margin-left: 10px;
+}
+
+.Left_Corousel_btn {
+    margin-left: 1200px;
+}
+
+.About_carousel {
+    font-weight: 400;
+}
+
+.cards {
+
+    height: 630px;
+    display: flex;
+    overflow: hidden;
+}
+
+.first_carousel_card {
+    width: 507px;
+    height: 630px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 22px;
+
+}
+
+.back_shoes_img {
+    width: 507px;
+    height: 575px;
+    background-image: url("https://cdn.shopify.com/s/files/1/0505/9044/9849/products/ETQ_Model_032Angel3_off-whiteLR_1080x.jpg?v=1655978363");
+    background-position: center;
+    background-size: cover;
+}
+
+/* ohirgi hoverhttps://cdn.shopify.com/s/files/1/0505/9044/9849/products/ETQ_2_81_v1_HT01PremiumSuedeLightGrey_1080x.jpg?v=1658998770 */
+/* ikkinchi https://cdn.shopify.com/s/files/1/0505/9044/9849/products/ETQ_220316_MODEL015Angel3_DEF_1080x.jpg?v=1649434039 */
+/* uchinchi https://cdn.shopify.com/s/files/1/0505/9044/9849/products/ETQ_220316_MODEL03Angel3_1080x.jpg?v=1656921240 */
